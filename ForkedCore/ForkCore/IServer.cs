@@ -14,5 +14,7 @@ namespace ForkCore
         int DoStuff(int x);
 
         int DoThings(int y);
+
+        int DoOtherThings(int y);
     }
 }

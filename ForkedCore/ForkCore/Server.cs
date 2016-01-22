@@ -30,5 +30,11 @@ namespace ForkCore
         {
             return y + 99;
         }
+        public int DoOtherThings(int y)
+        {
+            return y + 10;
+        }
+
+        
     }
 }
