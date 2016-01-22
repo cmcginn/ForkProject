@@ -18,5 +18,11 @@ namespace ForkCore
         {
             return x / y;
         }
+
+
+        public int DoStuff(int x)
+        {
+            return x + 5;
+        }
     }
 }

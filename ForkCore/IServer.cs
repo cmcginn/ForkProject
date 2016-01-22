@@ -10,5 +10,7 @@ namespace ForkCore
     {
         int Add(int x, int y);
         int Divide(int x, int y);
+
+        int DoStuff(int x);
     }
 }
