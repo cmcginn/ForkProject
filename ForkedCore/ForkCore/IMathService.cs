@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ForkCore
 {
-    public class Server:IServer
+    public interface IMathService
     {
-        public int Add(int x, int y)
-        {
-            return x + y;
-        }
+        int Multiply(int x, int y);
     }
 }
