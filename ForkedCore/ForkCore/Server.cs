@@ -24,5 +24,11 @@ namespace ForkCore
         {
             return x + 5;
         }
+
+
+        public int DoThings(int y)
+        {
+            return y + 99;
+        }
     }
 }
