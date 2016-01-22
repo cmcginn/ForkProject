@@ -12,5 +12,8 @@ namespace ForkCore
         int Divide(int x, int y);
 
         int DoStuff(int x);
+
+
+        int DoOtherThings(int y);
     }
 }
