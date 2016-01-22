@@ -9,6 +9,6 @@ namespace ForkCore
     public interface IServer
     {
         int Add(int x, int y);
-        int Multiply(int x, int y);
+        int Divide(int x, int y);
     }
 }

@@ -14,9 +14,9 @@ namespace ForkCore
         }
 
 
-        public int Multiply(int x, int y)
+        public int Divide(int x, int y)
         {
-            return x * y;
+            return x / y;
         }
     }
 }
